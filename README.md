@@ -1,2 +1,19 @@
-# -
-旨在为有宝宝的母亲提供幼儿教育方面知识和学习的平台
+# client
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
